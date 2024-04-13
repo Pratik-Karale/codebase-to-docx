@@ -14,7 +14,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 1. Clone this repository:
 
    ```bash
-   git clone [https://github.com/Pratik-Karale/codebase-to-docx.git](https://github.com/Pratik-Karale/codebase-to-docx.git)
+   git clone https://github.com/Pratik-Karale/codebase-to-docx.git
    ```
 
 2. Navigate to the project directory:
