@@ -1,41 +1,41 @@
-\# Code Conversion Tool
+# Codebase to docx file convertor
 
 This is a command-line tool for converting code snippets into a formatted DOCX document. It allows you to specify an input directory containing code files (JavaScript, Python, Java, C++, C#, Ruby), ignores specific paths, and generates a DOCX document with basic styles.
 
-This project was made for college project submission where we were required to print all the code files in our respective projects. 
-This was also inpired by other projects as well but doesn't rely on libreoffice and is much faster ⚡
+This project was made for my college project submission where we were required to print all the code files in our respective projects. 
+This was also inspired by other projects as well but doesn't rely on libreoffice and is much faster ⚡
 
-\#\# Prerequisites
+## Prerequisites
 
 Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
-\#\# Installation
+## Installation
 
 1. Clone this repository:
 
-   \```bash
-   git clone <repository-url>
-   \```
+   ```bash
+   git clone [https://github.com/Pratik-Karale/codebase-to-docx.git](https://github.com/Pratik-Karale/codebase-to-docx.git)
+   ```
 
 2. Navigate to the project directory:
 
-   \```bash
+   ```bash
    cd code-conversion-tool
-   \```
+   ```
 
 3. Install dependencies:
 
-   \```bash
+   ```bash
    npm install
-   \```
+   ```
 
-\#\# Usage
+## Usage
 
 1. Run the tool:
 
-   \```bash
-   node index.js
-   \```
+   ```bash
+   npm start
+   ```
 
 2. Follow the prompts to provide the path to the input directory, specify paths to ignore (if any), and choose whether to open the converted file.
 
@@ -45,17 +45,17 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 5. There might be a few spacing issues in the generated docx so you could resolve it by manually editing it.
 
-\#\# Features
+## Features
 
 - Supports various programming languages including JavaScript, Python, Java, C++, C#, and Ruby.
 - Highlights code syntax using [highlight.js](https://highlightjs.org/).
 - Allows customization of input directory and ignored paths.
 - Option to open the converted file in the default software.
 
-\#\# Contributing
+## Contributing
 
 Contributions are welcome! Feel free to open issues or pull requests for any improvements or new features you'd like to see.
 
-\#\# License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
