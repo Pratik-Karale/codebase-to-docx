@@ -48,7 +48,6 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 ## Features
 
 - Supports various programming languages including JavaScript, Python, Java, C++, C#, and Ruby.
-- Highlights code syntax using [highlight.js](https://highlightjs.org/).
 - Allows customization of input directory and ignored paths.
 - Option to open the converted file in the default software.
 
