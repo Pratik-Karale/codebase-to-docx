@@ -1,0 +1,22 @@
+# JavaScript
+# node_modules
+dist
+build
+
+# Python
+__pycache__
+
+# Java
+bin
+target
+
+# C++
+build
+
+# C#
+bin
+obj
+
+# Ruby
+.bundle
+vendor
